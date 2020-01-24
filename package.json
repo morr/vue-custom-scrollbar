@@ -17,5 +17,8 @@
     "@vue/cli-service": "^3.0.3",
     "vue-template-compiler": "^2.5.17",
     "vuepress": "^0.14.3"
+  },
+  "dependencies": {
+    "perfect-scrollbar": "morr/perfect-scrollbar#fix/touchmove-interrupt-error"
   }
 }
