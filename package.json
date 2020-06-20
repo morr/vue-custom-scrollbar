@@ -8,17 +8,15 @@
     "docs:build": "vuepress build docs"
   },
   "peerDependencies": {
-    "perfect-scrollbar": "^1.4.0",
     "vue": "^2.5.17"
   },
   "main": "dist/vueScrollbar.umd.min.js",
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.3",
     "@vue/cli-service": "^3.0.3",
+    "perfect-scrollbar": "morr/perfect-scrollbar#master",
     "vue-template-compiler": "^2.5.17",
     "vuepress": "^0.14.3"
   },
-  "dependencies": {
-    "perfect-scrollbar": "morr/perfect-scrollbar#fix/touchmove-interrupt-error"
-  }
+  "dependencies": {}
 }

@@ -5472,9 +5472,9 @@ pbkdf2@^3.0.3:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
-perfect-scrollbar@morr/perfect-scrollbar#fix/touchmove-interrupt-error:
+perfect-scrollbar@morr/perfect-scrollbar#master:
   version "1.5.0"
-  resolved "https://codeload.github.com/morr/perfect-scrollbar/tar.gz/a055d23a8a01c3f7d25c9a9df46bc76a623c7d15"
+  resolved "https://codeload.github.com/morr/perfect-scrollbar/tar.gz/7d56c6368810bcbf3f6e5d781718e5d608264c36"
 
 performance-now@^2.1.0:
   version "2.1.0"
