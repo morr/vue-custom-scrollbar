@@ -7,8 +7,8 @@ if git --no-pager diff --exit-code package.json; then
 fi
 
 # Update lock and rebuild
-npm install
-npm run build
+yarn install
+yarn build
 
 # Update gh-pages
 # cp css/perfect-scrollbar.css dist/perfect-scrollbar.min.js docs/
@@ -23,6 +23,6 @@ https://github.com/morr/vue-custom-scrollbar/releases"
 
 # Commit, tag, and show detail and file names
 git commit . -m "$message"
-git show
+# git show
 git tag $version
-git --no-pager show --pretty=format:'%Cred%h %Cgreen%an %Creset%s' --name-status
+# git --no-pager show --pretty=format:'%Cred%h %Cgreen%an %Creset%s' --name-status
