@@ -5473,8 +5473,8 @@ pbkdf2@^3.0.3:
     sha.js "^2.4.8"
 
 perfect-scrollbar@morr/perfect-scrollbar#master:
-  version "1.5.0"
-  resolved "https://codeload.github.com/morr/perfect-scrollbar/tar.gz/7d56c6368810bcbf3f6e5d781718e5d608264c36"
+  version "1.5.1"
+  resolved "https://codeload.github.com/morr/perfect-scrollbar/tar.gz/8f0a561d25a240b20501a72bf838918257747162"
 
 performance-now@^2.1.0:
   version "2.1.0"
