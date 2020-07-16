@@ -9,6 +9,7 @@ fi
 # Update lock and rebuild
 yarn install
 yarn build
+git add -A
 
 # Update gh-pages
 # cp css/perfect-scrollbar.css dist/perfect-scrollbar.min.js docs/
