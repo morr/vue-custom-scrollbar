@@ -27,3 +27,5 @@ git commit . -m "$message"
 # git show
 git tag $version
 # git --no-pager show --pretty=format:'%Cred%h %Cgreen%an %Creset%s' --name-status
+git push
+git push --tags
