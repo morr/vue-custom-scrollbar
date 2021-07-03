@@ -14,7 +14,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.3",
     "@vue/cli-service": "^3.0.3",
-    "perfect-scrollbar": "morr/perfect-scrollbar#1.5.3",
+    "perfect-scrollbar": "morr/perfect-scrollbar#master",
     "vue-template-compiler": "^2.5.17",
     "vuepress": "^0.14.3"
   },

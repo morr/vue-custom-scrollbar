@@ -7522,9 +7522,9 @@ pbkdf2@^3.0.3:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
-perfect-scrollbar@morr/perfect-scrollbar#1.5.3:
+perfect-scrollbar@morr/perfect-scrollbar#master:
   version "1.5.3"
-  resolved "https://codeload.github.com/morr/perfect-scrollbar/tar.gz/477cfd04bcb79a828ff0fe8a69ebc9e34389de0e"
+  resolved "https://codeload.github.com/morr/perfect-scrollbar/tar.gz/05a48dd9a72c943e5f644f09ab746ef9446d6ba4"
 
 performance-now@^2.1.0:
   version "2.1.0"
