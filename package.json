@@ -12,10 +12,11 @@
   },
   "main": "dist/vueScrollbar.umd.min.js",
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.0.3",
-    "@vue/cli-service": "^3.0.3",
+    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-service": "^4.5.13",
+    "@vue/compiler-sfc": "^3.1.4",
     "perfect-scrollbar": "morr/perfect-scrollbar#master",
-    "vue-template-compiler": "^2.5.17",
+    "vue": "^3.1.4",
     "vuepress": "^0.14.3"
   },
   "dependencies": {}
